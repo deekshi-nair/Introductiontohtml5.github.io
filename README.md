@@ -3,18 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="Style" href="C:/Users/lenovo/Documents/New folder/web101/style.css">
-    <style>
-        .gg
-        {
-            color:hotpink ;
-        }
-        ul{
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        }
-    </style>
+    <title>Introduction to HTML 5</title>
 </head>
 <body>
     <h1>Deekshith</h1>
